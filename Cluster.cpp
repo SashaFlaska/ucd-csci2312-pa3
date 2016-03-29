@@ -6,3 +6,4 @@
 //  Copyright © 2016 Alexander Flaska. All rights reserved.
 //
 
+int a=3;
